@@ -44,7 +44,7 @@ python gui-tts-tester.py
 ## TODO List
 - [ ] batch processing
 - [ ] automatic releases/workflow
-- [ ] thos 1.5 support
+- [ ] ethos 1.5 support
 - [ ] support translate single word/phrase with parameter
 
 ## How to contribute
