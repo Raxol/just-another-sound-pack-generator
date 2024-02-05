@@ -1,0 +1,329 @@
+audio/cs/system,0.wav,0
+audio/cs/system,jeden.wav,jeden
+audio/cs/system,jedna.wav,jedna
+audio/cs/system,jedno.wav,jedno
+audio/cs/system,dva.wav,dva
+audio/cs/system,dve.wav,dvě
+audio/cs/system,3.wav,3
+audio/cs/system,4.wav,4
+audio/cs/system,5.wav,5
+audio/cs/system,6.wav,6
+audio/cs/system,7.wav,7
+audio/cs/system,8.wav,8
+audio/cs/system,9.wav,9
+audio/cs/system,10.wav,10
+audio/cs/system,11.wav,11
+audio/cs/system,12.wav,12
+audio/cs/system,13.wav,13
+audio/cs/system,14.wav,14
+audio/cs/system,15.wav,15
+audio/cs/system,16.wav,16
+audio/cs/system,17.wav,17
+audio/cs/system,18.wav,18
+audio/cs/system,19.wav,19
+audio/cs/system,20.wav,20
+audio/cs/system,21.wav,21
+audio/cs/system,22.wav,22
+audio/cs/system,23.wav,23
+audio/cs/system,24.wav,24
+audio/cs/system,25.wav,25
+audio/cs/system,26.wav,26
+audio/cs/system,27.wav,27
+audio/cs/system,28.wav,28
+audio/cs/system,29.wav,29
+audio/cs/system,30.wav,30
+audio/cs/system,31.wav,31
+audio/cs/system,32.wav,32
+audio/cs/system,33.wav,33
+audio/cs/system,34.wav,34
+audio/cs/system,35.wav,35
+audio/cs/system,36.wav,36
+audio/cs/system,37.wav,37
+audio/cs/system,38.wav,38
+audio/cs/system,39.wav,39
+audio/cs/system,40.wav,40
+audio/cs/system,41.wav,41
+audio/cs/system,42.wav,42
+audio/cs/system,43.wav,43
+audio/cs/system,44.wav,44
+audio/cs/system,45.wav,45
+audio/cs/system,46.wav,46
+audio/cs/system,47.wav,47
+audio/cs/system,48.wav,48
+audio/cs/system,49.wav,49
+audio/cs/system,50.wav,50
+audio/cs/system,51.wav,51
+audio/cs/system,52.wav,52
+audio/cs/system,53.wav,53
+audio/cs/system,54.wav,54
+audio/cs/system,55.wav,55
+audio/cs/system,56.wav,56
+audio/cs/system,57.wav,57
+audio/cs/system,58.wav,58
+audio/cs/system,59.wav,59
+audio/cs/system,60.wav,60
+audio/cs/system,61.wav,61
+audio/cs/system,62.wav,62
+audio/cs/system,63.wav,63
+audio/cs/system,64.wav,64
+audio/cs/system,65.wav,65
+audio/cs/system,66.wav,66
+audio/cs/system,67.wav,67
+audio/cs/system,68.wav,68
+audio/cs/system,69.wav,69
+audio/cs/system,70.wav,70
+audio/cs/system,71.wav,71
+audio/cs/system,72.wav,72
+audio/cs/system,73.wav,73
+audio/cs/system,74.wav,74
+audio/cs/system,75.wav,75
+audio/cs/system,76.wav,76
+audio/cs/system,77.wav,77
+audio/cs/system,78.wav,78
+audio/cs/system,79.wav,79
+audio/cs/system,80.wav,80
+audio/cs/system,81.wav,81
+audio/cs/system,82.wav,82
+audio/cs/system,83.wav,83
+audio/cs/system,84.wav,84
+audio/cs/system,85.wav,85
+audio/cs/system,86.wav,86
+audio/cs/system,87.wav,87
+audio/cs/system,88.wav,88
+audio/cs/system,89.wav,89
+audio/cs/system,90.wav,90
+audio/cs/system,91.wav,91
+audio/cs/system,92.wav,92
+audio/cs/system,93.wav,93
+audio/cs/system,94.wav,94
+audio/cs/system,95.wav,95
+audio/cs/system,96.wav,96
+audio/cs/system,97.wav,97
+audio/cs/system,98.wav,98
+audio/cs/system,99.wav,99
+audio/cs/system,100.wav,100
+audio/cs/system,200.wav,200
+audio/cs/system,300.wav,300
+audio/cs/system,400.wav,400
+audio/cs/system,500.wav,500
+audio/cs/system,600.wav,600
+audio/cs/system,700.wav,700
+audio/cs/system,800.wav,800
+audio/cs/system,900.wav,900
+audio/cs/system,mvolt0.wav,milli-volt
+audio/cs/system,mvolt1.wav,milli-volty
+audio/cs/system,mvolt2.wav,milli-voltů
+audio/cs/system,mvolt3.wav,milli-voltu
+audio/cs/system,volt0.wav,volt
+audio/cs/system,volt1.wav,volty
+audio/cs/system,volt2.wav,voltů
+audio/cs/system,volt3.wav,voltu
+audio/cs/system,mamp0.wav,milli-ampér
+audio/cs/system,mamp1.wav,milli-ampéry
+audio/cs/system,mamp2.wav,milli-ampérů
+audio/cs/system,mamp3.wav,milli-ampéru
+audio/cs/system,amp0.wav,ampér
+audio/cs/system,amp1.wav,ampéry
+audio/cs/system,amp2.wav,ampérů
+audio/cs/system,amp3.wav,ampéru
+audio/cs/system,mah0.wav,milli-ampér hodina
+audio/cs/system,mah1.wav,milli-ampér hodiny
+audio/cs/system,mah2.wav,milli-ampér hodin
+audio/cs/system,mah3.wav,milli-ampér hodiny
+audio/cs/system,ah0.wav,ampér hodina
+audio/cs/system,ah1.wav,ampér hodiny
+audio/cs/system,ah2.wav,ampér hodin
+audio/cs/system,ah3.wav,ampér hodiny
+audio/cs/system,watt0.wav,vat
+audio/cs/system,watt1.wav,vaty
+audio/cs/system,watt2.wav,vatů
+audio/cs/system,watt3.wav,vatu
+audio/cs/system,mwatt0.wav,milivat
+audio/cs/system,mwatt1.wav,milivaty
+audio/cs/system,mwatt2.wav,milivatů
+audio/cs/system,mwatt3.wav,milivatu
+audio/cs/system,cm0.wav,centimetr
+audio/cs/system,cm1.wav,centimetry
+audio/cs/system,cm2.wav,centimetrů
+audio/cs/system,cm3.wav,centimetru
+audio/cs/system,meter0.wav,metr
+audio/cs/system,meter1.wav,metry
+audio/cs/system,meter2.wav,metrů
+audio/cs/system,meter3.wav,metru
+audio/cs/system,km0.wav,kilometr
+audio/cs/system,km1.wav,kilometry
+audio/cs/system,km2.wav,kilometrů
+audio/cs/system,km3.wav,kilometru
+audio/cs/system,foot0.wav,stopa
+audio/cs/system,foot1.wav,stopy
+audio/cs/system,foot2.wav,stop
+audio/cs/system,foot3.wav,stopy
+audio/cs/system,mile0.wav,míle
+audio/cs/system,mile1.wav,míle
+audio/cs/system,mile2.wav,mil
+audio/cs/system,mile3.wav,mil
+audio/cs/system,cmps0.wav,centimetr za sekundu
+audio/cs/system,cmps1.wav,centimetry za sekundu
+audio/cs/system,cmps2.wav,centimetrů za sekundu
+audio/cs/system,cmps3.wav,centimetru za sekundu
+audio/cs/system,meterps0.wav,metr za sekundu
+audio/cs/system,meterps1.wav,metry za sekundu
+audio/cs/system,meterps2.wav,metrů za sekundu
+audio/cs/system,meterps3.wav,metru za sekundu
+audio/cs/system,kph0.wav,kilometr za hodinu
+audio/cs/system,kph1.wav,kilometry za hodinu
+audio/cs/system,kph2.wav,kilometrů za hodinu
+audio/cs/system,kph3.wav,kilometru za hodinu
+audio/cs/system,footps0.wav,stop za sekundu
+audio/cs/system,footps1.wav,stopy za sekundu
+audio/cs/system,footps2.wav,stop za sekundu
+audio/cs/system,footps3.wav,stopy za sekundu
+audio/cs/system,mph0.wav,míle za hodinu
+audio/cs/system,mph1.wav,míle za hodinu
+audio/cs/system,mph2.wav,mil za hodinu
+audio/cs/system,mph3.wav,míle za hodinu
+audio/cs/system,knot0.wav,uzel
+audio/cs/system,knot1.wav,uzly
+audio/cs/system,knot2.wav,uzlů
+audio/cs/system,knot3.wav,uzlu
+audio/cs/system,celsius0.wav,stupeň celsia
+audio/cs/system,celsius1.wav,stupně celsia
+audio/cs/system,celsius2.wav,stupňů celsia
+audio/cs/system,celsius3.wav,stupně celsia
+audio/cs/system,fahrenheit0.wav,stupeň farenheita
+audio/cs/system,fahrenheit1.wav,stupně farenheita
+audio/cs/system,fahrenheit2.wav,stupňů farenheita
+audio/cs/system,fahrenheit3.wav,stupně farenheita
+audio/cs/system,percent0.wav,procento
+audio/cs/system,percent1.wav,procenta
+audio/cs/system,percent2.wav,procent
+audio/cs/system,percent3.wav,procenta
+audio/cs/system,microsecond0.wav,microsekunda
+audio/cs/system,microsecond1.wav,microsekundy
+audio/cs/system,microsecond2.wav,microsekund
+audio/cs/system,microsecond3.wav,microsekundy
+audio/cs/system,millisecond0.wav,millisekunda
+audio/cs/system,millisecond1.wav,millisekundy
+audio/cs/system,millisecond2.wav,millisekund
+audio/cs/system,millisecond3.wav,millisekundy
+audio/cs/system,second0.wav,sekunda
+audio/cs/system,second1.wav,sekundy
+audio/cs/system,second2.wav,sekund
+audio/cs/system,second3.wav,sekundy
+audio/cs/system,minute0.wav,minuta
+audio/cs/system,minute1.wav,minuty
+audio/cs/system,minute2.wav,minut
+audio/cs/system,minute3.wav,minut
+audio/cs/system,hour0.wav,hodina
+audio/cs/system,hour1.wav,hodiny
+audio/cs/system,hour2.wav,hodin
+audio/cs/system,hour3.wav,hodiny
+audio/cs/system,db0.wav,decibel
+audio/cs/system,db1.wav,decibely
+audio/cs/system,db2.wav,decibelů
+audio/cs/system,db3.wav,decibelu
+audio/cs/system,dbm.wav,dbm
+audio/cs/system,hz.wav,hertz
+audio/cs/system,g0.wav,gé
+audio/cs/system,g1.wav,gé
+audio/cs/system,g2.wav,gé
+audio/cs/system,g3.wav,gé
+audio/cs/system,degree0.wav,stupeň
+audio/cs/system,degree1.wav,stupně
+audio/cs/system,degree2.wav,stupňů
+audio/cs/system,degree3.wav,stupně
+audio/cs/system,rad.wav,rad
+audio/cs/system,ml0.wav,millilitr
+audio/cs/system,ml1.wav,mililitry
+audio/cs/system,ml2.wav,mililitrů
+audio/cs/system,ml3.wav,mililitru
+audio/cs/system,mlpm0.wav,millilitr za minutu
+audio/cs/system,mlpm1.wav,millilitry za minutu
+audio/cs/system,mlpm2.wav,millilitrů za minutu
+audio/cs/system,mlpm3.wav,millilitru za minutu
+audio/cs/system,mlpp0.wav,millilitr za pulz
+audio/cs/system,mlpp1.wav,millilitry za pulz
+audio/cs/system,mlpp2.wav,millilitrů za pulz
+audio/cs/system,mlpp3.wav,millilitru za pulz
+audio/cs/system,rpm0.wav,otáčka za minutu
+audio/cs/system,rpm1.wav,otáčky za minutu
+audio/cs/system,rpm2.wav,otáček za minutu
+audio/cs/system,rpm3.wav,otáčky za minutu
+audio/cs/system,pa0.wav,paskal
+audio/cs/system,pa1.wav,paskaly
+audio/cs/system,pa2.wav,paskalů
+audio/cs/system,pa3.wav,paskalu
+audio/cs/system,kpa0.wav,kilo paskal
+audio/cs/system,kpa1.wav,kilo paskaly
+audio/cs/system,kpa2.wav,kilo paskalů
+audio/cs/system,kpa3.wav,kilo paskalu
+audio/cs/system,mpa0.wav,mega paskal
+audio/cs/system,mpa1.wav,mega paskaly
+audio/cs/system,mpa2.wav,mega paskalů
+audio/cs/system,mpa3.wav,mega paskalu
+audio/cs/system,bar0.wav,bar
+audio/cs/system,bar1.wav,bary
+audio/cs/system,bar2.wav,barů
+audio/cs/system,bar3.wav,baru
+audio/cs/system,psi0.wav,libra na čtvereční palec
+audio/cs/system,psi1.wav,libry na ctvereční palec
+audio/cs/system,psi2.wav,liber na čtvereční palec
+audio/cs/system,psi3.wav,liber na čtvereční palec
+audio/cs/system,minus.wav,mínus
+audio/cs/system,and.wav,a
+audio/cs/system,tisic.wav,tisíc
+audio/cs/system,tisice.wav,tisíce
+audio/cs/system,cela.wav,celá
+audio/cs/system,cele.wav,celé
+audio/cs/system,celych.wav,celých
+audio/cs/system,hello.wav,Vítá Vás Ethos
+audio/cs/system,down.wav,dole
+audio/cs/system,middle.wav,uprostřed
+audio/cs/system,up.wav,nahoře
+audio/cs/system,trim-center.wav,centr trim
+audio/cs/system,trim-max.wav,dosaženo max
+audio/cs/system,trim-min.wav,dosaženo min
+audio/cs/system,no-failsafe.wav,Failsafe není nastaven
+audio/cs/system,inactivity.wav,nudím se --- pojď si hrát
+audio/cs/system,modelfile-version-error.wav,Nodpovídá verze modelu
+audio/cs/system,no-sd.wav,SD karta není vložena
+audio/cs/system,pot-warning.wav,varování potenciometrů
+audio/cs/system,low-battery.wav,Baterie rádia je vybitá
+audio/cs/system,no-sound.wav,pssssst -- rádio je v tichém režimu
+audio/cs/system,low-rtc-battery.wav,baterie hodin je vybitá
+audio/cs/system,slave-disconnect.wav,žák odpojen
+audio/cs/system,switch-warning.wav,varování přepínačů
+audio/cs/system,swr-warning.wav,varování SWR
+audio/cs/system,system-file-version-error.wav,neodpovídá verze nastavení systému
+audio/cs/system,rssi-lost.wav,ztráta telemetrie
+audio/cs/system,rssi-recovered.wav,telemetrie obnovena
+audio/cs/system,rssi-critical-warning.wav,kritická hodnota RSSI
+audio/cs/system,rssi-low-warning.wav,nízká hodnota RSSI
+audio/cs/system,rssi-ext-lost.wav,ztráta telemetrie externího modulu
+audio/cs/system,rssi-ext-recovered.wav,telemetrie externího modulu obnovena
+audio/cs/system,rssi-ext-critical-warning.wav,kriticka hodnota RSSI externího modulu
+audio/cs/system,rssi-ext-low-warning.wav,nízká hodnota RSSI externího modulu
+audio/cs/system,rssi-int-lost.wav,ztráta telemetrie interního modulu
+audio/cs/system,rssi-int-recovered.wav,telemetrie interního modulu obnovena
+audio/cs/system,rssi-int-critical-warning.wav,kritická hodnota RSSI interního modulu
+audio/cs/system,rssi-int-low-warning.wav,nízká hodnota RSSI interního modulu
+audio/cs/system,rssi-int2g4-lost.wav,ztráta telemetrie interního modulu dvě celé čtyři giga
+audio/cs/system,rssi-int2g4-recovered.wav,telemetrie interního modulu dvě celé čtyři giga obnovena
+audio/cs/system,rssi-int2g4-critical-warning.wav,kritická hodnota RSSI interního modulu dvě celé čtyři giga
+audio/cs/system,rssi-int2g4-low-warning.wav,nízká hodnota RSSI interního modulu dvě celé čtyři giga
+audio/cs/system,rssi-int900m-lost.wav,ztráta telemetrie interního modulu osumšestosum mega
+audio/cs/system,rssi-int900m-recovered.wav,telemetrie interního modulu osumšestosum mega obnovena
+audio/cs/system,rssi-int900m-critical-warning.wav,kritická hodnota RSSI interního modulu osumšestosum mega
+audio/cs/system,rssi-int900m-low-warning.wav,nízká hodnota RSSI interního modulu osumšestosum mega
+audio/cs/system,trainer-lost.wav,spojení trenéra ztraceno
+audio/cs/system,trainer-recovered.wav,spojení trenéra obnoveno
+audio/cs/system,no-calibration.wav,páky nejsou zkalibrovány
+audio/cs/system,throttle-warning.wav,Plyn není na nule
+audio/cs/system,register.wav,Registrace
+audio/cs/system,bind.wav,párování
+audio/cs/system,range-check.wav,kontrola dosahu
+audio/cs/system,rx-on-warning.wav,přijímač je stále zapnutý
+audio/cs/system,sensor-lost.wav,senzor ztracen
+audio/cs/system,sensor-conflict.wav,konflikt senzorů
+audio/cs/system,vfr-low-warning.wav,varování nízkého V F R
+audio/cs/system,function-switches-warning.wav,varování přepínačů funkcí

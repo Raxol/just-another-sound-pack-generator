@@ -1,0 +1,249 @@
+audio/en/system,0.wav,0
+audio/en/system,1.wav,1
+audio/en/system,2.wav,2
+audio/en/system,3.wav,3
+audio/en/system,4.wav,4
+audio/en/system,5.wav,5
+audio/en/system,6.wav,6
+audio/en/system,7.wav,7
+audio/en/system,8.wav,8
+audio/en/system,9.wav,9
+audio/en/system,10.wav,10
+audio/en/system,11.wav,11
+audio/en/system,12.wav,12
+audio/en/system,13.wav,13
+audio/en/system,14.wav,14
+audio/en/system,15.wav,15
+audio/en/system,16.wav,16
+audio/en/system,17.wav,17
+audio/en/system,18.wav,18
+audio/en/system,19.wav,19
+audio/en/system,20.wav,20
+audio/en/system,21.wav,21
+audio/en/system,22.wav,22
+audio/en/system,23.wav,23
+audio/en/system,24.wav,24
+audio/en/system,25.wav,25
+audio/en/system,26.wav,26
+audio/en/system,27.wav,27
+audio/en/system,28.wav,28
+audio/en/system,29.wav,29
+audio/en/system,30.wav,30
+audio/en/system,31.wav,31
+audio/en/system,32.wav,32
+audio/en/system,33.wav,33
+audio/en/system,34.wav,34
+audio/en/system,35.wav,35
+audio/en/system,36.wav,36
+audio/en/system,37.wav,37
+audio/en/system,38.wav,38
+audio/en/system,39.wav,39
+audio/en/system,40.wav,40
+audio/en/system,41.wav,41
+audio/en/system,42.wav,42
+audio/en/system,43.wav,43
+audio/en/system,44.wav,44
+audio/en/system,45.wav,45
+audio/en/system,46.wav,46
+audio/en/system,47.wav,47
+audio/en/system,48.wav,48
+audio/en/system,49.wav,49
+audio/en/system,50.wav,50
+audio/en/system,51.wav,51
+audio/en/system,52.wav,52
+audio/en/system,53.wav,53
+audio/en/system,54.wav,54
+audio/en/system,55.wav,55
+audio/en/system,56.wav,56
+audio/en/system,57.wav,57
+audio/en/system,58.wav,58
+audio/en/system,59.wav,59
+audio/en/system,60.wav,60
+audio/en/system,61.wav,61
+audio/en/system,62.wav,62
+audio/en/system,63.wav,63
+audio/en/system,64.wav,64
+audio/en/system,65.wav,65
+audio/en/system,66.wav,66
+audio/en/system,67.wav,67
+audio/en/system,68.wav,68
+audio/en/system,69.wav,69
+audio/en/system,70.wav,70
+audio/en/system,71.wav,71
+audio/en/system,72.wav,72
+audio/en/system,73.wav,73
+audio/en/system,74.wav,74
+audio/en/system,75.wav,75
+audio/en/system,76.wav,76
+audio/en/system,77.wav,77
+audio/en/system,78.wav,78
+audio/en/system,79.wav,79
+audio/en/system,80.wav,80
+audio/en/system,81.wav,81
+audio/en/system,82.wav,82
+audio/en/system,83.wav,83
+audio/en/system,84.wav,84
+audio/en/system,85.wav,85
+audio/en/system,86.wav,86
+audio/en/system,87.wav,87
+audio/en/system,88.wav,88
+audio/en/system,89.wav,89
+audio/en/system,90.wav,90
+audio/en/system,91.wav,91
+audio/en/system,92.wav,92
+audio/en/system,93.wav,93
+audio/en/system,94.wav,94
+audio/en/system,95.wav,95
+audio/en/system,96.wav,96
+audio/en/system,97.wav,97
+audio/en/system,98.wav,98
+audio/en/system,99.wav,99
+audio/en/system,100.wav,100
+audio/en/system,200.wav,200
+audio/en/system,300.wav,300
+audio/en/system,400.wav,400
+audio/en/system,500.wav,500
+audio/en/system,600.wav,600
+audio/en/system,700.wav,700
+audio/en/system,800.wav,800
+audio/en/system,900.wav,900
+audio/en/system,mvolt.wav,millivolt
+audio/en/system,mvolts.wav,millivolts
+audio/en/system,volt.wav,volt
+audio/en/system,volts.wav,volts
+audio/en/system,mamp.wav,milliamp
+audio/en/system,mamps.wav,milliamps
+audio/en/system,amp.wav,amp
+audio/en/system,amps.wav,amps
+audio/en/system,mah.wav,milliamp-hour
+audio/en/system,mahs.wav,milliamp-hours
+audio/en/system,ah.wav,ampere-hour
+audio/en/system,ahs.wav,ampere-hours
+audio/en/system,watt.wav,watt
+audio/en/system,watts.wav,watts
+audio/en/system,mwatt.wav,milliwatt
+audio/en/system,mwatts.wav,milliwatts
+audio/en/system,cm.wav,centimeter
+audio/en/system,cms.wav,centimeters
+audio/en/system,meter.wav,meter
+audio/en/system,meters.wav,meters
+audio/en/system,km.wav,kilometer
+audio/en/system,kms.wav,kilometers
+audio/en/system,foot.wav,foot
+audio/en/system,feet.wav,feet
+audio/en/system,mile.wav,mile
+audio/en/system,miles.wav,miles
+audio/en/system,cmps.wav,centimeter per second
+audio/en/system,cmsps.wav,centimeters per second
+audio/en/system,meterps.wav,meter per second
+audio/en/system,metersps.wav,meters per second
+audio/en/system,kph.wav,kilometer per hour
+audio/en/system,ksph.wav,kilometers per hour
+audio/en/system,footps.wav,foot per second
+audio/en/system,feetps.wav,feet per second
+audio/en/system,mph.wav,mile per hour
+audio/en/system,msph.wav,miles per hour
+audio/en/system,celsius.wav,degree celsius
+audio/en/system,celsiuss.wav,degrees celsius
+audio/en/system,fahrenheit.wav,degree fahrenheit
+audio/en/system,fahrenheits.wav,degrees fahrenheit
+audio/en/system,percent.wav,percent
+audio/en/system,percents.wav,percent
+audio/en/system,microsecond.wav,microsecond
+audio/en/system,microseconds.wav,microseconds
+audio/en/system,millisecond.wav,millisecond
+audio/en/system,milliseconds.wav,milliseconds
+audio/en/system,second.wav,second
+audio/en/system,seconds.wav,seconds
+audio/en/system,minute.wav,minute
+audio/en/system,minutes.wav,minutes
+audio/en/system,hour.wav,hour
+audio/en/system,hours.wav,hours
+audio/en/system,db.wav,db
+audio/en/system,dbs.wav,db
+audio/en/system,dbm.wav,dbm
+audio/en/system,hz.wav,hertz
+audio/en/system,g.wav,g
+audio/en/system,degree.wav,degree
+audio/en/system,degrees.wav,degrees
+audio/en/system,rad.wav,rad
+audio/en/system,ml.wav,milliliter
+audio/en/system,mls.wav,milliliters
+audio/en/system,mlpm.wav,milliliter per minute
+audio/en/system,mlpms.wav,milliliters per minute
+audio/en/system,mlpp.wav,milliliter per pulse
+audio/en/system,mlpps.wav,milliliters per pulse
+audio/en/system,rpm.wav,rotation per minute
+audio/en/system,rpms.wav,rotations per minute
+audio/en/system,pa.wav,pascal
+audio/en/system,pas.wav,pascals
+audio/en/system,kpa.wav,kilopascal
+audio/en/system,kpas.wav,kilopascals
+audio/en/system,mpa.wav,megapascal
+audio/en/system,mpas.wav,megapascals
+audio/en/system,bar.wav,bar
+audio/en/system,bars.wav,bars
+audio/en/system,psi.wav,pound per square inch
+audio/en/system,psis.wav,pounds per square inch
+audio/en/system,minus.wav,minus
+audio/en/system,and.wav,and
+audio/en/system,thousand.wav,thousand
+audio/en/system,thousands.wav,thousands
+audio/en/system,point1.wav,point one
+audio/en/system,point2.wav,point two
+audio/en/system,point3.wav,point three
+audio/en/system,point4.wav,point four
+audio/en/system,point5.wav,point five
+audio/en/system,point6.wav,point six
+audio/en/system,point7.wav,point seven
+audio/en/system,point8.wav,point eight
+audio/en/system,point9.wav,point nine
+audio/en/system,hello.wav,Welcome to ethos
+audio/en/system,down.wav,down
+audio/en/system,middle.wav,middle
+audio/en/system,up.wav,up
+audio/en/system,trim-center.wav,trim center
+audio/en/system,trim-max.wav,max reached
+audio/en/system,trim-min.wav,min reached
+audio/en/system,no-failsafe.wav,Failsafe not set
+audio/en/system,inactivity.wav,Inactivity for long time
+audio/en/system,modelfile-version-error.wav,Model file version does not match
+audio/en/system,pot-warning.wav,pot warning
+audio/en/system,low-battery.wav,Radio battery is low
+audio/en/system,no-sound.wav,Radio is in silent mode
+audio/en/system,low-rtc-battery.wav,RTC battery is low
+audio/en/system,switch-warning.wav,switch warning
+audio/en/system,swr-warning.wav,SWR warning
+audio/en/system,system-file-version-error.wav,System file version does not match
+audio/en/system,rssi-lost.wav,Telemetry lost
+audio/en/system,rssi-recovered.wav,Telemetry recovered
+audio/en/system,rssi-critical-warning.wav,RSSI critical warning
+audio/en/system,rssi-low-warning.wav,RSSI low warning
+audio/en/system,rssi-ext-lost.wav,External module telemetry lost
+audio/en/system,rssi-ext-recovered.wav,External module telemetry recovered
+audio/en/system,rssi-ext-critical-warning.wav,External module RSSI critical warning
+audio/en/system,rssi-ext-low-warning.wav,External module RSSI low warning
+audio/en/system,rssi-int-lost.wav,Internal module telemetry lost
+audio/en/system,rssi-int-recovered.wav,Internal module telemetry recovered
+audio/en/system,rssi-int-critical-warning.wav,Internal module RSSI critical warning
+audio/en/system,rssi-int-low-warning.wav,Internal module RSSI low warning
+audio/en/system,rssi-int2g4-lost.wav,Internal module 2 giga 4 telemetry lost
+audio/en/system,rssi-int2g4-recovered.wav,Internal module 2 giga 4 telemetry recovered
+audio/en/system,rssi-int2g4-critical-warning.wav,Internal module 2 giga 4 RSSI critical warning
+audio/en/system,rssi-int2g4-low-warning.wav,Internal module 2 giga 4 RSSI low warning
+audio/en/system,rssi-int900m-lost.wav,Internal module 900 mega telemetry lost
+audio/en/system,rssi-int900m-recovered.wav,Internal module 900 mega telemetry recovered
+audio/en/system,rssi-int900m-critical-warning.wav,Internal module 900 mega RSSI critical warning
+audio/en/system,rssi-int900m-low-warning.wav,Internal module 900 mega RSSI low warning
+audio/en/system,trainer-lost.wav,Trainer lost
+audio/en/system,trainer-recovered.wav,Trainer recovered
+audio/en/system,no-calibration.wav,The sticks are not calibrated
+audio/en/system,throttle-warning.wav,Throttle not idle
+audio/en/system,register.wav,Register
+audio/en/system,bind.wav,Bind
+audio/en/system,range-check.wav,Range check
+audio/en/system,rx-on-warning.wav,Receiver is still ON
+audio/en/system,sensor-lost.wav,Sensor lost
+audio/en/system,sensor-conflict.wav,Sensor conflict
+audio/en/system,vfr-low-warning.wav,VFR low warning
+audio/en/system,function-switches-warning.wav,function switches warning

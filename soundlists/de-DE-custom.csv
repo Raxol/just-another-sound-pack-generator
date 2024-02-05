@@ -1,0 +1,61 @@
+audio;airoff.wav;Air-Modus aus
+audio;airon.wav;Air-Modus ein
+audio;alert.wav;Alarm
+audio;armed.wav;Aktiviert
+audio;bboff.wav;Blackbox aus
+audio;bbon.wav;Blackbox ein
+audio;disarm.wav;Deaktiviert
+audio;engoff.wav;Motor aus
+audio;engon.wav;Motor ein
+audio;batlow.wav;Akkuspannung niedrig
+audio;batcri.wav;Akkuspannung kritisch
+audio;failof.wav;Failsafe aus
+audio;failon.wav;Failsafe ein
+audio;flapup.wav;Klappen eingefahren
+audio;flapdn.wav;Klappen halb
+audio;flapfu.wav;Klappen voll
+audio;fm-0.wav;Flugmodus Normal
+audio;fm-1.wav;Flugmodus 1
+audio;fm-2.wav;Flugmodus 2
+audio;fm-3.wav;Flugmodus 3
+audio;fm-4.wav;Flugmodus 4
+audio;fm-5.wav;Flugmodus 5
+audio;fm-6.wav;Flugmodus 6
+audio;fm-acr.wav;Flugmodus Akro
+audio;fm-ang.wav;Flugmodus Begrenzt
+audio;fm-att.wav;Flugmodus Haltung
+audio;fm-crs.wav;Flugmodus Kreuzen
+audio;fm-hor.wav;Flugmodus Horizont
+audio;fm-idl.wav;Flugmodus Leerlauf
+audio;fm-lch.wav;Flugmodus Start
+audio;fm-lnd.wav;Flugmodus Landung
+audio;fm-nrm.wav;Flugmodus Normal
+audio;fm-rce.wav;Flugmodus Rennen
+audio;fm-spd.wav;Flugmodus Geschwindigkeit
+audio;fm-stb.wav;Flugmodus Stabilisiert
+audio;fm-thm.wav;Flugmodus Thermik
+audio;geardn.wav;Fahrwerk unten
+audio;gearup.wav;Fahrwerk oben
+audio;ratlow.wav;Niedrige Raten
+audio;ratmed.wav;Normale Raten
+audio;rathi.wav;Hohe raten
+audio;splrdn.wav;Spoiler eingefahren
+audio;splrup.wav;Spoiler halb
+audio;splrfu.wav;Spoiler voll
+audio;trnoff.wav;Trainer-Modus ein
+audio;trnon.wav;Trainer-Modus aus
+audio;warn.wav;Warnung
+audio;btfoff.wav;Butterfly aus
+audio;btfon.wav;Butterfly ein
+audio;arbkof.wav;Bremsklappen aus
+audio;arbkon.wav;Bremsklappen ein
+audio;lghoff.wav;Lichter aus
+audio;lghon.wav;Lichter ein
+audio;lgh-m1.wav;Lichtmodus 1
+audio;lgh-m2.wav;Lichtmodus 2
+audio;lgh-m3.wav;Lichtmodus 3
+audio;gps.wav;GPS
+audio;gpsoff.wav;GPS aus
+audio;gpson.wav;GPS ein
+audio;turtof.wav;Törtel-Modus aus
+audio;turton.wav;Törtel-Modus ein

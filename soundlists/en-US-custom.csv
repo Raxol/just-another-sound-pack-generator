@@ -1,0 +1,63 @@
+audio;airoff.wav;Air mode off
+audio;airon.wav;Air mode on
+audio;alert.wav;Alert
+audio;armed.wav;Armed
+audio;bboff.wav;Black box off
+audio;bbon.wav;Black box on
+audio;crowof.wav;Crow off
+audio;crowon.wav;Crow on
+audio;disarm.wav;Disarmed
+audio;engoff.wav;Engine off
+audio;engon.wav;Engine on
+audio;batlow.wav;Battery low
+audio;batcri.wav;Battery critical
+audio;failof.wav;Failsafe off
+audio;failon.wav;Failsafe on
+audio;flapup.wav;Flaps up
+audio;flapdn.wav;Flaps half
+audio;flapfu.wav;Flaps full
+audio;fm-0.wav;Flightmode normal
+audio;fm-1.wav;Flightmode 1
+audio;fm-2.wav;Flightmode 2
+audio;fm-3.wav;Flightmode 3
+audio;fm-4.wav;Flightmode 4
+audio;fm-5.wav;Flightmode 5
+audio;fm-6.wav;Flightmode 6
+audio;fm-acr.wav;Flightmode acro
+audio;fm-ang.wav;Flightmode angle
+audio;fm-att.wav;Flightmode attitude
+audio;fm-crs.wav;Flightmode cruise
+audio;fm-hor.wav;Flightmode horizon
+audio;fm-idl.wav;Flightmode idle up
+audio;fm-lch.wav;Flightmode launch
+audio;fm-lnd.wav;Flightmode land
+audio;fm-nrm.wav;Flightmode normal
+audio;fm-rce.wav;Flightmode race
+audio;fm-spd.wav;Flightmode speed
+audio;fm-stb.wav;Flightmode stabilized
+audio;fm-thm.wav;Flightmode thermal
+audio;geardn.wav;Gear down
+audio;gearup.wav;Gear up
+audio;ratlow.wav;Low rate
+audio;ratmed.wav;Medium rate
+audio;rathi.wav;High rate
+audio;splrdn.wav;Spoiler down
+audio;splrup.wav;Spoiler half
+audio;splrfu.wav;Spoiler full
+audio;trnoff.wav;Trainer off
+audio;trnon.wav;Trainer on
+audio;warn.wav;Warning
+audio;btfoff.wav;Butterfly off
+audio;btfon.wav;Butterfly on
+audio;arbkof.wav;Airbrake off
+audio;arbkon.wav;Airbrake on
+audio;lghoff.wav;Lights off
+audio;lghon.wav;Lights on
+audio;lgh-m1.wav;Lightmode 1
+audio;lgh-m2.wav;Lightmode 2
+audio;lgh-m3.wav;Lightmode 3
+audio;gps.wav;GPS
+audio;gpsoff.wav;GPS off
+audio;gpson.wav;GPS on
+audio;turtof.wav;Turtlemode off
+audio;turton.wav;Turtlemode on

@@ -1,0 +1,211 @@
+audio/es/system,0.wav,0
+audio/es/system,1.wav,1
+audio/es/system,2.wav,2
+audio/es/system,3.wav,3
+audio/es/system,4.wav,4
+audio/es/system,5.wav,5
+audio/es/system,6.wav,6
+audio/es/system,7.wav,7
+audio/es/system,8.wav,8
+audio/es/system,9.wav,9
+audio/es/system,10.wav,10
+audio/es/system,11.wav,11
+audio/es/system,12.wav,12
+audio/es/system,13.wav,13
+audio/es/system,14.wav,14
+audio/es/system,15.wav,15
+audio/es/system,16.wav,16
+audio/es/system,17.wav,17
+audio/es/system,18.wav,18
+audio/es/system,19.wav,19
+audio/es/system,20.wav,20
+audio/es/system,21.wav,21
+audio/es/system,22.wav,22
+audio/es/system,23.wav,23
+audio/es/system,24.wav,24
+audio/es/system,25.wav,25
+audio/es/system,26.wav,26
+audio/es/system,27.wav,27
+audio/es/system,28.wav,28
+audio/es/system,29.wav,29
+audio/es/system,30.wav,30
+audio/es/system,31.wav,31
+audio/es/system,32.wav,32
+audio/es/system,33.wav,33
+audio/es/system,34.wav,34
+audio/es/system,35.wav,35
+audio/es/system,36.wav,36
+audio/es/system,37.wav,37
+audio/es/system,38.wav,38
+audio/es/system,39.wav,39
+audio/es/system,40.wav,40
+audio/es/system,41.wav,41
+audio/es/system,42.wav,42
+audio/es/system,43.wav,43
+audio/es/system,44.wav,44
+audio/es/system,45.wav,45
+audio/es/system,46.wav,46
+audio/es/system,47.wav,47
+audio/es/system,48.wav,48
+audio/es/system,49.wav,49
+audio/es/system,50.wav,50
+audio/es/system,51.wav,51
+audio/es/system,52.wav,52
+audio/es/system,53.wav,53
+audio/es/system,54.wav,54
+audio/es/system,55.wav,55
+audio/es/system,56.wav,56
+audio/es/system,57.wav,57
+audio/es/system,58.wav,58
+audio/es/system,59.wav,59
+audio/es/system,60.wav,60
+audio/es/system,61.wav,61
+audio/es/system,62.wav,62
+audio/es/system,63.wav,63
+audio/es/system,64.wav,64
+audio/es/system,65.wav,65
+audio/es/system,66.wav,66
+audio/es/system,67.wav,67
+audio/es/system,68.wav,68
+audio/es/system,69.wav,69
+audio/es/system,70.wav,70
+audio/es/system,71.wav,71
+audio/es/system,72.wav,72
+audio/es/system,73.wav,73
+audio/es/system,74.wav,74
+audio/es/system,75.wav,75
+audio/es/system,76.wav,76
+audio/es/system,77.wav,77
+audio/es/system,78.wav,78
+audio/es/system,79.wav,79
+audio/es/system,80.wav,80
+audio/es/system,81.wav,81
+audio/es/system,82.wav,82
+audio/es/system,83.wav,83
+audio/es/system,84.wav,84
+audio/es/system,85.wav,85
+audio/es/system,86.wav,86
+audio/es/system,87.wav,87
+audio/es/system,88.wav,88
+audio/es/system,89.wav,89
+audio/es/system,90.wav,90
+audio/es/system,91.wav,91
+audio/es/system,92.wav,92
+audio/es/system,93.wav,93
+audio/es/system,94.wav,94
+audio/es/system,95.wav,95
+audio/es/system,96.wav,96
+audio/es/system,97.wav,97
+audio/es/system,98.wav,98
+audio/es/system,99.wav,99
+audio/es/system,100.wav,100
+audio/es/system,200.wav,200
+audio/es/system,300.wav,300
+audio/es/system,400.wav,400
+audio/es/system,500.wav,500
+audio/es/system,600.wav,600
+audio/es/system,700.wav,700
+audio/es/system,800.wav,800
+audio/es/system,900.wav,900
+audio/es/system,mvolt.wav,milivoltios
+audio/es/system,volt.wav,voltios
+audio/es/system,mamp.wav,milliamperios
+audio/es/system,amp.wav,amperios
+audio/es/system,mah.wav,milliamperios hora
+audio/es/system,ah.wav,amperios hora
+audio/es/system,watt.wav,vatios
+audio/es/system,mwatt.wav,milivatios
+audio/es/system,cm.wav,centímetros
+audio/es/system,meter.wav,metros
+audio/es/system,km.wav,kilómetros
+audio/es/system,foot.wav,pies
+audio/es/system,mile.wav,mllas
+audio/es/system,cmps.wav,centímetros por segundo
+audio/es/system,meterps.wav,metros por segundo
+audio/es/system,kph.wav,kilómetros por hora
+audio/es/system,footps.wav,pies por segundo
+audio/es/system,mph.wav,millas por hora
+audio/es/system,celsius.wav,grados celsius
+audio/es/system,fahrenheit.wav,grados fahrenheit
+audio/es/system,percent.wav,por ciento
+audio/es/system,microsecond.wav,microsegundos
+audio/es/system,millisecond.wav,milisegundos
+audio/es/system,second.wav,segundos
+audio/es/system,minute.wav,minutos
+audio/es/system,hour.wav,horas
+audio/es/system,db.wav,decibelios
+audio/es/system,dbm.wav,dbm
+audio/es/system,hz.wav,hertz
+audio/es/system,g.wav,g
+audio/es/system,degree.wav,degree
+audio/es/system,rad.wav,rad
+audio/es/system,ml.wav,milliliter
+audio/es/system,mlpm.wav,milliliter per minute
+audio/es/system,mlpp.wav,milliliter per pulse
+audio/es/system,rpm.wav,tour par minute
+audio/es/system,pa.wav,pascal
+audio/es/system,kpa.wav,kilopascal
+audio/es/system,mpa.wav,megapascal
+audio/es/system,bar.wav,bar
+audio/es/system,psi.wav,psi
+audio/es/system,moins.wav,menos
+audio/es/system,et.wav,y
+audio/es/system,mille.wav,milla
+audio/es/system,virgule1.wav,coma uno
+audio/es/system,virgule2.wav,coma dos
+audio/es/system,virgule3.wav,coma tres
+audio/es/system,virgule4.wav,coma cuatro
+audio/es/system,virgule5.wav,coma cinco
+audio/es/system,virgule6.wav,coma seis
+audio/es/system,virgule7.wav,coma siete
+audio/es/system,virgule8.wav,coma ocho
+audio/es/system,virgule9.wav,coma nueve
+audio/es/system,hello.wav,Bienvenido a Ethos !
+audio/es/system,down.wav,bajo
+audio/es/system,middle.wav,medio
+audio/es/system,up.wav,alto
+audio/es/system,trim-center.wav,trim centrado
+audio/es/system,trim-max.wav,trim al máximo
+audio/es/system,trim-min.wav,trim al mínimo
+audio/es/system,no-failsafe.wav,Failsafe no confifurado
+audio/es/system,inactivity.wav,Radio inactiva !
+audio/es/system,modelfile-version-error.wav,La versión del archivo de modelo es errónea
+audio/es/system,pot-warning.wav,Alerta potentiómetros
+audio/es/system,low-battery.wav,Batería de la emisora baja !
+audio/es/system,no-sound.wav,Radio en modo silencioso !
+audio/es/system,low-rtc-battery.wav,Batería RTC baja !
+audio/es/system,switch-warning.wav,Alerta interruptores
+audio/es/system,swr-warning.wav,Alerta SWR !
+audio/es/system,system-file-version-error.wav,Datos de emisora erróneos
+audio/es/system,rssi-lost.wav,Señal de radio perdida !
+audio/es/system,rssi-recovered.wav,Señal de radio recuperada !
+audio/es/system,rssi-critical-warning.wav,Señal de radio crítica !
+audio/es/system,rssi-low-warning.wav,Señal de radio débil
+audio/es/system,rssi-ext-lost.wav,Señal de radio del módulo externo perdida !
+audio/es/system,rssi-ext-recovered.wav,Señal de radio del módulo externo recuperada !
+audio/es/system,rssi-ext-critical-warning.wav,Señal de radio del módulo externo crítica !
+audio/es/system,rssi-ext-low-warning.wav,Señal de radio del módulo externo débil
+audio/es/system,rssi-int-lost.wav,Señal de radio del módulo interno perdida !
+audio/es/system,rssi-int-recovered.wav,Señal de radio del módulo interno recuperada !
+audio/es/system,rssi-int-critical-warning.wav,Señal de radio del módulo interno crítica !
+audio/es/system,rssi-int-low-warning.wav,Señal de radio del módulo interno débil
+audio/es/system,rssi-int2g4-lost.wav,Señal de radio del módulo interno 2 con 4 perdida !
+audio/es/system,rssi-int2g4-recovered.wav,Señal de radio sel módulo interno 2 con 4 recuperada !
+audio/es/system,rssi-int2g4-critical-warning.wav,Señal de radio del módulo interno 2 con 4 crítica !
+audio/es/system,rssi-int2g4-low-warning.wav,Señal de radio del módulo interno 2 con 4 débil
+audio/es/system,rssi-int900m-lost.wav,Señal de radio del módulo interno 900 perdida !
+audio/es/system,rssi-int900m-recovered.wav,Señal de radio del módulo interno 900 recuperada !
+audio/es/system,rssi-int900m-critical-warning.wav,Señal de radio del módulo interno 900 crítica !
+audio/es/system,rssi-int900m-low-warning.wav,Señal de radio del módulo interno 900 debíl
+audio/es/system,trainer-lost.wav,Radio alumno desconectada
+audio/es/system,trainer-recovered.wav,Radio alumno reconectada
+audio/es/system,no-calibration.wav,Los esticks no están calibrados
+audio/es/system,throttle-warning.wav,Alerta estick de motor !
+audio/es/system,register.wav,Registro ...
+audio/es/system,bind.wav,Enlace ...
+audio/es/system,range-check.wav,Test de alcance ...
+audio/es/system,rx-on-warning.wav,El receptor todavía está encendido
+audio/es/system,sensor-lost.wav,Sensor perdido
+audio/es/system,sensor-conflict.wav,Sensor conflict
+audio/es/system,vfr-low-warning.wav,VFR low warning
+audio/es/system,function-switches-warning.wav,function switches warning

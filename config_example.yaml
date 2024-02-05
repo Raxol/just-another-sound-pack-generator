@@ -1,0 +1,38 @@
+googletts:
+  language: en-GB # IETF BCP 47 language tag e.g. en-GB, en-US, de-DE
+  voice_name: en-GB-Neural2-A # The name of the voice
+  speaking_rate: 1.0 # Speaking rate/speed, Default: 1.0, Min: 0.25, Max: 4.0
+  pitch: 0.0 # Speaking pitch, Default: 0, Min: -20, Max: 20
+  sample_rate: 32000 # The synthesis sample rate (in hertz), leave at 32000 for opentx flair radios
+
+elevenlabs:
+  voice_id: XrExE9yKIg1WjnnlVkGX # The unique id of a voice profile
+  api_key: YOUR_API_KEY # API Key as returend in the user frontend
+  stability: 0.5 # Determines how stable the voice is and the randomness. Higher values sound more monotonous. Default for most voices: 0.5
+  similarity: 0.75 # Dictates how closely the AI should adhere to the original voice when attempting to replicate it. Does little to the default voices. Default for most voices: 0.75
+  style: 0.0 # style exaggeration setting, attempts to amplify the style of the original speaker. Default for most voices: 0.0
+  speaker_boost: true # it boosts the similarity to the original speaker. Default for most voices: true
+
+amazonpolly:
+  aws_access_key_id: YOUR_ACCESS_KEY # AWS root or IAM user Access Key
+  aws_secret_access_key: YOUR_SECRET # AWS root or IAM user Access Secret
+  region_name: eu-central-1 #
+  language: en-GB # IETF BCP 47 language tag e.g. en-GB, en-US, de-DE
+  engine: neural # standard | neural | long-form
+  voice_id: Kimberly # https://docs.aws.amazon.com/polly/latest/dg/voicelist.html
+
+ibmwatson:
+  api_key: YOUR_API_KEY # IBM Cloud Service API Key
+  api_url: YOUR_API_ENDPOINT # Custom IBM Cloud Service API Endpoint
+  voice_name: en-US_MichaelV3Voice # https://cloud.ibm.com/docs/text-to-speech?topic=text-to-speech-voices
+  speaking_rate: 0 # Speaking rate/speed as a percentage, Default: 10, Min: 20, Max: 170
+  pitch: 0 # Speaking pitch as a percentage, Default: 0, Min: -100, Max: 100
+
+microsoftazure:
+  speech_security_key: YOUR_ACCESS_KEY # Microsoft Azure Cognitive Services TTS Key
+  region_name: germanywestcentral #
+  language: en-GB # IETF BCP 47 language tag e.g. en-GB, en-US, de-DE
+  voice_id: en-GB-LibbyNeural # https://learn.microsoft.com/en-us/azure/ai-services/speech-service/language-support?tabs=tts#prebuilt-neural-voices
+  speaking_rate: 1.0 # Speaking rate/speed, Default: 1.0, Min: 0.5, Max: 2.0
+  pitch: 0 # Speaking pitch, Default: 0, Min: -50, Max: 50
+  output_format: Riff48Khz16BitMonoPcm # https://learn.microsoft.com/de-de/azure/ai-services/speech-service/rest-text-to-speech?tabs=streaming#audio-outputs
