@@ -54,11 +54,7 @@ class AmazonPollyTTS(TTSProvider):
 		
 		response = self._generate_tts_output(text)
 
-		TTSProvider.save_and_convert_file(response.get('AudioStream').read(), "mp3", file_path)
-		
-		#with open(file_path, "wb") as out:
-		#	out.write(response.get('AudioStream').read())
-		#	print(f"{self.SERVICE_NAME}: Audio content written to file {file_path}")
+		TTSProvider.save_and_convert_file(response.get('AudioStream').read(), "mp3", file_path, apply_eq=self._apply_eq)
 	
 	def get_voices(self):
 		voices = []
@@ -78,16 +74,16 @@ class AmazonPollyTTS(TTSProvider):
 		
 	def _generate_tts_output(self, text):
 		if text.startswith("<speak"):
-			type = "ssml"
+			request_type = "ssml"
 		else:
-			type = "text"
+			request_type = "text"
 		
 		response = self._client.synthesize_speech(
 			Engine=self._engine,
 			LanguageCode=self._language,
 			OutputFormat='mp3',
 			Text=text,
-			TextType=type,
+			TextType=request_type,
 			VoiceId=self._voice_id
 		)
 		

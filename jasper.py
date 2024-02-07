@@ -17,7 +17,7 @@ JASPER_VERSION = "v1.0"
 
 def load_config():
 	try:
-		with open('config.yaml', 'r') as file:
+		with open("config.yaml", "r") as file:
 			config = yaml.safe_load(file)
 			print("Config file loaded.")
 	except yaml.YAMLError as error:
@@ -31,9 +31,9 @@ def load_config():
 def read_csv_file_and_create_audio(csv_file, output_dir, soundpack_dir, tts_client):
 	character_count = 0
 	with open(csv_file, "r") as csv_content:
-		dialect = csv.Sniffer().sniff(csv_content.read(), delimiters=';,')
+		dialect = csv.Sniffer().sniff(csv_content.read(), delimiters=";,")
 		csv_content.seek(0)
-		csv_reader = csv.reader(csv_content, dialect=dialect)#delimiter=';')
+		csv_reader = csv.reader(csv_content, dialect=dialect)
 		for row in csv_reader:
 			file_dir = row[0]
 			file_name = row[1]
@@ -51,18 +51,18 @@ def read_csv_file_and_create_audio(csv_file, output_dir, soundpack_dir, tts_clie
 			character_count += len(text)
 	print(f"Synthesized {character_count} characters")
 
-def init_tts_client(service, config, overwrites):
+def init_tts_client(service, config, overwrites, enhancement):
 	try:
 		config = load_config()
 		
 		print("Initializing TTS Client")
 		if service == "google":
-			if not os.path.isfile(r'googletts_cred.json'):
+			if not os.path.isfile(r"googletts_cred.json"):
 				print("Missing Google TTS credentials file!")
 				sys.exit(1)
 			
 			client = GoogleTTS(
-				credentials_file = 	r'googletts_cred.json',
+				credentials_file = 	r"googletts_cred.json",
 				language = 			config["googletts"]["language"], 
 				voice_name = 		config["googletts"]["voice_name"], 
 				speaking_rate = 	float(config["googletts"]["speaking_rate"]),
@@ -94,8 +94,8 @@ def init_tts_client(service, config, overwrites):
 				region_name = 			config["microsoftazure"]["region_name"],
 				language = 				config["microsoftazure"]["language"],
 				voice_id = 				config["microsoftazure"]["voice_id"],
-				speaking_rate = 		config["microsoftazure"]["speaking_rate"],
-				pitch = 				config["microsoftazure"]["pitch"],
+				speaking_rate = 		float(config["microsoftazure"]["speaking_rate"]),
+				pitch = 				int(config["microsoftazure"]["pitch"]),
 				output_format = 		config["microsoftazure"]["output_format"]
 			)
 		elif service == "ibm":
@@ -116,6 +116,8 @@ def init_tts_client(service, config, overwrites):
 				att = att_line.split("=")
 				client.set_property_by_name(att[0], att[1])
 		
+		client.set_property_by_name("apply_eq", enhancement)		
+		
 		return client
 
 	except Exception as e:
@@ -123,24 +125,25 @@ def init_tts_client(service, config, overwrites):
 		sys.exit(1)
 
 
-def main(csv_file, service, soundpack_dir, overwrites):
+def main(csv_file, service, soundpack_dir, overwrites, enhancement):
 	print(f"Welcome to Jasper {JASPER_VERSION}")
 	print("Just Another Sound Pack genERator")
-	tts_client = init_tts_client(service, load_config(), overwrites)
+	tts_client = init_tts_client(service, load_config(), overwrites, enhancement)
 	read_csv_file_and_create_audio(csv_file, OUTPUT_DIRECTORY, soundpack_dir, tts_client)
 	#Add disclaimer.txt to sound pack folder
-	with open(f"{OUTPUT_DIRECTORY}{os.sep}{soundpack_dir}{os.sep}disclaimer.txt", 'w') as file:
+	with open(f"{OUTPUT_DIRECTORY}{os.sep}{soundpack_dir}{os.sep}disclaimer.txt", "w") as file:
 		file.write("The voices in this sound pack are AI-generated.")
 
 
 if __name__ == "__main__":
 	# Instantiate the parser
 	parser = argparse.ArgumentParser(description="Generates sound files for OpenTX/Ethos/etc radios with TTS from various services")
-	parser.add_argument('-s', '--service', choices=["google", "elevenlabs", "amazon", "microsoft", "ibm"], type=str, help="Use 'google', 'amazon', 'microsoft', 'elevenlabs' or 'ibm'", required=True)
-	parser.add_argument('-f', '--file', type=str, help="CSV File to read from", required=True)
-	parser.add_argument('-n', '--name', type=str, help="Name of the Soundpack", required=True)
-	parser.add_argument('-o', '--overwrites', type=str, help="Overwrite settings from config: pitch=4,language=de-DE")
+	parser.add_argument("-s", "--service", choices=["google", "elevenlabs", "amazon", "microsoft", "ibm"], type=str, help="Use 'google', 'amazon', 'microsoft', 'elevenlabs' or 'ibm'", required=True)
+	parser.add_argument("-f", "--file", type=str, help="CSV File to read from", required=True)
+	parser.add_argument("-n", "--name", type=str, help="Name of the Soundpack", required=True)
+	parser.add_argument("-o", "--overwrites", type=str, help="Overwrite settings from config: pitch=4,language=de-DE")
+	parser.add_argument("-e", "--enhancement", help="Apply audio enhancement to output file (reduce lows/bass, boost highs/treble)", action="store_true")
 	args = parser.parse_args()
 	
-	main(args.file, args.service, args.name, args.overwrites)
+	main(args.file, args.service, args.name, args.overwrites, args.enhancement)
 	sys.exit(0)

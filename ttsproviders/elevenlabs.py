@@ -1,5 +1,5 @@
-from elevenlabs import (Voice, VoiceSettings, generate, play, save,
-                        set_api_key, voices)
+from elevenlabs import (Voice, VoiceSettings, generate, play, set_api_key,
+                        voices)
 
 from .ttsprovider import TTSProvider
 
@@ -103,7 +103,7 @@ class ElevenLabsTTS(TTSProvider):
 	
 	def save_file(self, text, file_path):
 		print(f"{self.SERVICE_NAME}: Saving file..")
-		TTSProvider.save_and_convert_file(self._generate_tts_output(text), "mp3", file_path)
+		TTSProvider.save_and_convert_file(self._generate_tts_output(text), "mp3", file_path, apply_eq=self._apply_eq)
 		print(f"{self.SERVICE_NAME}: Audio content written to file {file_path}")
 	
 	def get_voices(self):

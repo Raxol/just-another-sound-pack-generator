@@ -78,7 +78,7 @@ class IBMWatsonTTS(TTSProvider):
 		
 		response = self._generate_tts_output(text)
 
-		TTSProvider.save_and_convert_file(response.content, "wav", file_path)
+		TTSProvider.save_and_convert_file(response.content, "wav", file_path, apply_eq=self._apply_eq)
 	
 	def get_voices(self):
 		voices = self._text_to_speech.list_voices().get_result()

@@ -6,7 +6,7 @@ from .ttsprovider import TTSProvider
 class MicrosoftAzureTTS(TTSProvider):
 	SERVICE_NAME = "Microsoft Azure TTS"
 
-	def __init__(self, speech_security_key, region_name="germanywestcentral", language="en-GB", voice_id="en-GB-LibbyNeural", speaking_rate = 1.0, pitch = 0, output_format="Riff48Khz16BitMonoPcm"):
+	def __init__(self, speech_security_key, region_name="germanywestcentral", language="en-GB", voice_id="en-GB-LibbyNeural", speaking_rate=1.0, pitch=0, output_format="Riff48Khz16BitMonoPcm"):
 		self._language = language
 		self._speaking_rate = speaking_rate
 		self._pitch = pitch
@@ -71,16 +71,16 @@ class MicrosoftAzureTTS(TTSProvider):
 		# Only request pitch & rate if we changed it from the default value
 		# every character between the <voice> tags will be billed 
 		if self._pitch != 0 and self._speaking_rate != 1.0:
-			print("both")
+			# change pitch & speaking rate
 			text_insert = f"""<prosody pitch="{self._pitch}%" rate="{self._speaking_rate}">{text}</prosody>"""
 		elif self._pitch != 0:
-			print("only pitch")
+			# change pitch only
 			text_insert = f"""<prosody pitch="{self._pitch}%">{text}</prosody>"""
 		elif self._speaking_rate != 1.0:
-			print("only speaking rate")
+			# Change speaking rate only
 			text_insert = f"""<prosody rate="{self._speaking_rate}">{text}</prosody>"""
 		else:
-			print("only text")
+			# No change in pitch or speaking rate, we just passthru the text, no additional ssml tags
 			text_insert = text
 		
 		return f"""
@@ -106,7 +106,7 @@ class MicrosoftAzureTTS(TTSProvider):
 
 		if result.reason == speechsdk.ResultReason.SynthesizingAudioCompleted:
 			print(f"Speech synthesized for text [{text}]")
-			TTSProvider.save_and_convert_file(result.audio_data, "wav", file_path)
+			TTSProvider.save_and_convert_file(result.audio_data, "wav", file_path, apply_eq=self._apply_eq)
 		elif result.reason == speechsdk.ResultReason.Canceled:
 			cancellation_details = result.cancellation_details
 			print(f"Speech synthesis canceled: {cancellation_details.reason}")

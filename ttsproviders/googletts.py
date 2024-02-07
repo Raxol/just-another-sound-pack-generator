@@ -102,11 +102,7 @@ class GoogleTTS(TTSProvider):
 		
 		response = self._generate_tts_output(text)
 
-		TTSProvider.save_and_convert_file(response.audio_content, "wav", file_path)
-		
-		#with open(file_path, "wb") as out:
-		#	out.write(response.audio_content)
-		#	print(f"{self.SERVICE_NAME}: Audio content written to file {file_path}")
+		TTSProvider.save_and_convert_file(response.audio_content, "wav", file_path, apply_eq=self._apply_eq)
 	
 	def get_voices(self):
 		request = texttospeech.ListVoicesRequest()
